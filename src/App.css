@@ -38,3 +38,11 @@
   padding-left: 0px;
   padding-right: 0px; 
 }
+
+.my-navbar{
+  border: 1px solid black;
+  background-color: grey;
+  height: 50px;
+  padding-left: 0px;
+  padding-right: 0px; 
+}
